@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">v-here</string>
+    <string name="action_settings">Settings</string>
+
+    //Headings
+    <string name="heading_one">Fast &amp; Easy</string>
+    <string name="heading_two">Multiple Modes</string>
+    <string name="heading_three">Secure Chat</string>
+
+    //Description
+    <string name="desc_one">Start and find your match as easy as a single click.</string>
+    <string name="desc_two">More than one way to find your date with more Fun and Adventure</string>
+    <string name="desc_three">Trusted and secure chat for all your messaging needs.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

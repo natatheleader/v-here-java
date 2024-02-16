@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Main Colors
+    <color name="primaryBlue">#0077be</color>
+    <color name="primaryRed">#ff4d4d</color>
+
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="button_text">#50C2C9</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+
+    //added
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#11CFC5</color>
+    <color name="themeColor">#11CFC5</color>
+
+    <color name="gray">#C0C0C0</color>
+
+    <!--normal colors-->
+    <color name="darkTextColor">#020000</color>
+
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+
+    <!-- Here you can add color of your choice  -->
+    <color name="ucrop_color_toolbar">@color/primaryBlue</color>
+    <color name="ucrop_color_statusbar">@color/primaryBlue</color>
+    <color name="ucrop_color_widget_active">@color/primaryRed</color>
+</resources>
